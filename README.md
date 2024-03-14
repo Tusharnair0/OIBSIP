@@ -13,7 +13,7 @@ ATM Interface:
 
 Online Test Interface:
 -User Login: Provides a secure login mechanism for registered users.
--Online Test: Presents a timed test with questions (format and content to be determined based on specific requirements).
+-Online Test: Presents a timed test with questions.
 -Test Submission: Allows users to submit their completed tests within the allotted time.
 
 Technologies Used
